@@ -11,8 +11,8 @@
   DTS:LocaleID="2057"
   DTS:ObjectName="Package32"
   DTS:PackageType="5"
-  DTS:VersionBuild="15"
-  DTS:VersionGUID="{22E6A5B6-70B8-453B-B0ED-208DCDFADD03}">
+  DTS:VersionBuild="16"
+  DTS:VersionGUID="{C2B34252-7602-4908-A5ED-B0076CEE4C5E}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">6</DTS:Property>
   <DTS:ConnectionManagers>
@@ -318,7 +318,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="ProcessPath">
       <DTS:VariableValue
-        DTS:DataType="8">\\INS01SGE01\DataExchange\CSV_CUSTOMER_IN\Customer Update20141111_1427570730\\INS01SGE01\DataExchange\CustomerTemp\Customer Update</DTS:VariableValue>
+        DTS:DataType="8">\\INS01SGE01\DataExchange\CSV_CUSTOMER_IN\Customer Update20141111_1432480727\\INS01SGE01\DataExchange\CustomerTemp\Customer Update</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -343,11 +343,12 @@
     <DTS:Variable
       DTS:CreationName=""
       DTS:DTSID="{DC90FFE9-E9E7-46C3-8775-6C9F62FE8697}"
-      DTS:IncludeInDebugDump="6789"
+      DTS:IncludeInDebugDump="2345"
       DTS:Namespace="User"
-      DTS:ObjectName="Variable1">
+      DTS:ObjectName="Variable2">
       <DTS:VariableValue
-        DTS:DataType="3">0</DTS:VariableValue>
+        DTS:DataType="8"
+        xml:space="preserve"></DTS:VariableValue>
     </DTS:Variable>
   </DTS:Variables>
   <DTS:Executables>
