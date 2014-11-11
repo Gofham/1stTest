@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Integration Services Project32">
+</Property><Property Name="Solution File" Value="C:\Users\Graham.Hartley\Documents\Integration Services Project32\Integration Services Project32.sln">
+</Property><Property Name="Date" Value="01 August 2014">
+</Property><Property Name="Time" Value="16:53">
+</Property></Properties><Event ErrorLevel="3" Project="Integration Services Project32" Source="Integration Services Project32.dtproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Integration Services Project32" Source="Integration Services Project32.dtproj" Description="Project converted successfully.">
+</Event><Event ErrorLevel="0" Project="" Source="Integration Services Project32.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Integration Services Project32.sln" Description="Converted">
+</Event></UpgradeLog>
